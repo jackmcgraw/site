@@ -4,7 +4,7 @@ email: john.s.mcgraw.20@dartmouth.edu
 url: http://jackmcgraw.me/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Stude"
+skills: "Developer and student at Dartmouth College"
 meta_author: McGraw Jack
 
 # Google webmaster tools
@@ -21,7 +21,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+# disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -33,8 +33,8 @@ color:
 # Footer settings
 footer:
   copyright: Jack McGraw
-  location: Location
-  social: Around the Web
+  location: San Diego, CA
+  social: Social
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
