@@ -2,11 +2,11 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: GraphicalEditor1.png
+img: graphical_editor_1.png
 alt: image-alt
 project-date: February 2017
-client: Personal Project
+client: this
 category: Java
-description: Description of project...
+description: description... [markdown](test.com)
 
 ---
