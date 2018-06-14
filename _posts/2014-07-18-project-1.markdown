@@ -5,6 +5,7 @@ date: 2014-07-18
 img: graphical_editor_1.png
 alt: image-alt
 project-date: February 2017
+title: Graphical Editor with Server
 client: this
 category: Java
 description: description... [markdown](test.com)
