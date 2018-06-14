@@ -2,8 +2,8 @@
 title: Jack McGraw
 email: john.s.mcgraw.20@dartmouth.edu
 url: http://jackmcgraw.me/
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+description: "Jack McGraw, developer and student at Dartmouth College."
+keywords: "jack mcgraw, jack, mcgraw, john, john mcgraw, developer, dartmouth"
 skills: "Developer and student at Dartmouth College"
 meta_author: McGraw Jack
 
@@ -39,7 +39,7 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
+  - title: linkedin
     url:
   - title: github
     url: http://github.com/jackmcgraw
