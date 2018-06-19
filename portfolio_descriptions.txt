@@ -1,0 +1,18 @@
+//*****************************
+//
+//  TSE
+//
+//*****************************
+
+– Coded in C
+– crawler.c crawls the web starting from a "seed" URL and returns a list of webpages
+– indexer.c reads the document files produced by the crawler, builds an index, and writes that index to a file
+– querier.c ranks results of a search query by reading the document files produced by the crawler, and reading an index of those files. The results are scored based on relevance, sorted, and displayed for the user
+
+//*****************************
+//
+//  Graphical Sketch Server
+//
+//*****************************
+
+This project 

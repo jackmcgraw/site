@@ -202,6 +202,94 @@ section.success {
     }
 }
 
+/************************************************
+*
+*   New Portfolio Articles
+*
+*************************************************/
+article {
+  font-family: 'Charter', serif;
+  font-size: 1.2em;
+  width: 65%;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding-bottom: 20px;
+  -webkit-font-smoothing: antialiased;
+  color: rgba(0, 0, 0, 0.8); }
+  article img {
+    max-width: 100%; }
+  article a {
+    color: #127EC7;
+    cursor: pointer;
+    font-family: 'Kievit', sans-serif;
+    font-weight: 700; }
+    article a:not(.live):not(.github):hover {
+      text-decoration: underline; }
+    article a.live, article a.github {
+      font-family: 'Font Awesome';
+      margin-right: 7px; }
+  article p a {
+    font-family: 'Charter', serif; }
+    article p a:hover {
+      text-decoration: underline; }
+  article h3 {
+    font-family: 'Kievit', sans-serif;
+    font-weight: 700;
+    font-size: 1.4em;
+    letter-spacing: -0.6px;
+    margin: 0px; }
+    article h3 a {
+      color: rgba(0, 0, 0, 0.8); }
+  article h4 {
+    font-family: 'Kievit', sans-serif;
+    font-weight: 300;
+    font-size: 1.2em;
+    letter-spacing: -0.6px;
+    margin: 0px; }
+  article:not(.preview) .image, article:not(.preview) .video {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 500px;
+    text-align: center; }
+    article:not(.preview) .image img, article:not(.preview) .image video, article:not(.preview) .video img, article:not(.preview) .video video {
+      max-height: 30em; }
+    article:not(.preview) .image span, article:not(.preview) .video span {
+      display: block;
+      font-size: 0.8em;
+      color: rgba(0, 0, 0, 0.6); }
+  article.preview {
+    display: inline-block;
+    width: calc(100% - 24px);
+    font-size: 1.05em;
+    column-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+    -moz-column-break-inside: avoid;
+    background-color: white;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden; }
+    article.preview .image {
+      margin: -15px -15px 10px -15px;
+      max-height: 250px;
+      overflow: hidden; }
+      article.preview .image img {
+        max-width: 100%;
+        width: 100%; }
+
+.columns {
+  column-width: 388px;
+  column-gap: 24px;
+  width: 90%;
+  max-width: 800px;
+  margin: 0px auto 40px auto; }
+
+  /************************************************
+  *
+  *   Bootstrap Portfolio Articles
+  *
+  *************************************************/
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
