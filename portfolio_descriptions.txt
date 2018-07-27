@@ -15,4 +15,5 @@
 //
 //*****************************
 
-This project 
+– Coded in Java
+This project is a sketchpad that can communicates with a server allowing multiple clients to work on the same project together. Communications with the server are synchronized and updated real time on each client. Given no practical use for the 
