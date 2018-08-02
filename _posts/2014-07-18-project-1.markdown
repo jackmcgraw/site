@@ -2,12 +2,12 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: graphical_editor_1.png
+img: tse_screenshot.png
 alt: image-alt
-project-date: February 2017
-title: Graphical Editor with Server
+project-date: February 2018
+title: Tiny Search Engine
 client: this
-category: Java
-description: description... [markdown](test.com)
+category: C
+description: This program was developed for an in-class assignment. The search engine crawls the web up to a certain depth, indexes it, and can be searched by the user. Tiny Search Engine was coded in C, and was a great project for learning to deal with memory leaks. Credit goes to Professor Campbell for outlining and designing the project. As this was an in-class assignment, I cannot post code to GitHub—please contact me if you'd like to take a look at it.
 
 ---

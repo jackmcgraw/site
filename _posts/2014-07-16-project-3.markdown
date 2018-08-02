@@ -5,8 +5,9 @@ date: 2014-07-16
 img: graphical_editor_1.png
 alt: image-alt
 project-date: April 2014
+title: Online Ordering App
 client: Start Bootstrap
-category: Web Development
-description: Test
+category: Android
+description: This program was developed for an in-class final project. My partner, Jake Herman, and I developed an Android app that allows Dartmouth students to place an order for food at a dining place on campus. We implemented the ability for students and dining service employees to create accounts using Firebase. All in all it was a small, fun project working with Android. As this was an in-class assignment, I cannot post code to GitHub—please contact me if you'd like to take a look at it.
 
 ---

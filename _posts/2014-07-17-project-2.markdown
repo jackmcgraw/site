@@ -5,8 +5,9 @@ date: 2014-07-17
 img: graphical_editor_1.png
 alt: image-alt
 project-date: April 2014
+title: Collaborative Graphical Editor
 client: Start Bootstrap
-category: Web Development
-description: 
+category: Java
+description: This program was developed for an in-class assignment. It sets up a client-server architecture that allows multiple computers to create and edit shapes on the same sketch pad. Overall it was a fun first project in java dealing with client-server interactions. As this was an in-class assignment, I cannot post code to GitHub—please contact me if you'd like to take a look at it.
 
 ---

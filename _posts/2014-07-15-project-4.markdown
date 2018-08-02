@@ -2,11 +2,12 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: graphical_editor_1.png
+img: mad_pigs.png
 alt: image-alt
-project-date: April 2014
+project-date: 2012/13
+title: Mad Pigs
 client: Start Bootstrap
-category: Web Development
-description: Project
+category: iOS Game Development
+description: I developed Mad Pigs when I was in 8th grade using GameSalad which is a platform that doesn't strictly use code. It took me 6 months from start to finish and made it onto the App Store. In terms of code, this project is relatively unimpressive, but it was my first experience taking on a project that–at the time–was massive. Unfortunately I took it down after only a year of being up. I made a small Weebly website for it back in the day... you can check it out at jackmcgrawapps.com
 
 ---
