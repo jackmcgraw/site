@@ -2,11 +2,10 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: graphical_editor_1.png
+img: mad_pigs.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+project-date: February 2018
+title: Tiny Search Engine
+category: C
+description: This program was developed for an in-class assignment. The search engine crawls the web up to a certain depth, indexes it, and can be searched by the user. Tiny Search Engine was coded in C, and was a great project for learning to deal with memory leaks. Credit goes to Professor Campbell for outlining and designing the project. As this was an in-class assignment, I cannot post code to GitHub—please contact me if you'd like to take a look at it.
 ---

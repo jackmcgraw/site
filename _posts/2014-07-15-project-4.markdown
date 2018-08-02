@@ -2,11 +2,10 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: graphical_editor_1.png
+img: mad_pigs.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+title: Mad Pigs
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+description: I developed Mad Pigs when I was in 8th grade using GameSalad which is a platform that doesn't strictly use code. It took me 6 months from start to finish and made it onto the App Store. In terms of code, this project is relatively unimpressive, but it was my first experience taking on a project that–at the time–was massive. Unfortunately I took it down after only a year of being up. I made a small Weebly website for it back in the day... you can check it out at jackmcgrawapps.com
 ---
