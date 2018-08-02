@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2018-08-01
-img: moped_project.png
+img: moped_project.jpg
 alt: image-alt
 project-date: August 2018
 title: Moped Project
