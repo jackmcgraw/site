@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: hop_app_portfolio.png
+img: hop_app_portfolio2.png
 alt: image-alt
 project-date: April 2014
 title: Online Ordering App
